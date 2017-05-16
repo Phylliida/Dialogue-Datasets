@@ -5,4 +5,4 @@ I don't claim to have any liscensing/ownership of this, I just made it myself fr
 
 corpus.txt is all of the unscripted spoken dialouge, where a \n represents a change of speaker
 
-splitWordsCorpus.txt used [this](http://stackoverflow.com/questions/8870261/how-to-split-text-without-spaces-into-list-of-words) to split apart some of the words in the corpus because the original text had a lot of wordsthatwerecombinedlikethis.
+splitWordsCorpus.txt is the same except I used [this](http://stackoverflow.com/questions/8870261/how-to-split-text-without-spaces-into-list-of-words) to split apart some of the words in the corpus because the original text had a lot of wordsthatwerecombinedlikethis.
